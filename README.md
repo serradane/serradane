@@ -1,6 +1,5 @@
 ### Hi there 👋
-This is my Personal Website. You can use it as a template, that's what I also did.
-Simple, minimalistic. 
+
 
 <!--
 **serradane/serradane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
